@@ -13,6 +13,6 @@ def main():
   f.close()
 
   print(quotes[rnd])
-
-  if __name__== "__main__":
+  
+if __name__== "__main__":
     main()
